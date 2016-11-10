@@ -1,5 +1,6 @@
 # ReactNativeNaApp
 ReactNativeNaApp Demo
+Integration with exiting Android & IOS project.
 
 #React Native 集成到原生项目
 ---
