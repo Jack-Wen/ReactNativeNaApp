@@ -1,2 +1,0 @@
-# ReactNativeNaApp
-ReactNativeNaApp Demo
